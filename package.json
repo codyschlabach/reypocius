@@ -1,0 +1,26 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "cody's portfolio of cs work",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.15.3",
+    "express-handlebars": "^3.0.0",
+    "handlebars": "^4.0.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codyschlabach/portfolio.git"
+  },
+  "author": "Cody Schlabach",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codyschlabach/portfolio/issues"
+  },
+  "homepage": "https://github.com/codyschlabach/portfolio#readme"
+}
